@@ -7,7 +7,7 @@ Usted tiene permitido:
   - Utilizar el lenguaje que desee
 
 Desafio:
-  Se le solicita a usted crear un programa  del tipo cliente / servidor, el cual tenga como objetivo que el cliente pueda sincronizar con el servidor una llave mediante RSA para posteriormente recibir un  el mensaje leido desde el archivo mensajeentrada.txt el cual debe ser  encriptado por la llave publica  y poder desencriptarlo por la llave privada
+  Se le solicita a usted crear un programa  del tipo cliente / servidor, el cual tenga como objetivo que el cliente pueda sincronizar con el servidor una llave mediante RSA para posteriormente recibir un mensaje leido desde el archivo mensajeentrada.txt el cual debe ser  encriptado por la llave publica  y poder desencriptarlo por la llave privada
   
   
  Entregable:
